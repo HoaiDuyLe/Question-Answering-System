@@ -1,0 +1,272 @@
+[
+{
+"context": "The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.
+The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline. Each CT has 5 lenses which forms a blister.
+The Primary Packaging Line cycles through all five (5) positions of the blister strip with discrete I/O communication between the IPIe system and the PP line PLC. The PP line sends a discrete signal for each track to the IPIe unit to allow the system to start the inspection. Once the signal is received, the IPIe system sends a reply signal to halt the PP line and wait for the inspection results. After the IPIe finish processing, the system outputs inspection results to the PP line for blister strip acceptance or disposal.
+The hardware components of IPIe consists of the following:
+IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations",
+"qas":[
+
+{"question": "Define System overview of IPIe?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "Define System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "Give me a System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "Explain System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "Tell me about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "brief me about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "I want to know about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "Describe System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "Can you explain me about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "say something about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "what is System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "show System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "show me the System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "give System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "go to System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "know about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "information about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "can you tell me about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "explain about System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "System overview?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "System overview of IPIe?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+{"question": "System overview IPIe?",	
+"answer": ["The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line. The IPIe Vision System inspects for Missing Lenses, Multiple Lens, No Saline, Low Saline, No Blister Shell, Spot Defect, critical edge quality defects Edge Gap, Edge Tear, In Lens Tear, Deformed Lens, Lens Out of Position. The lenses are then rejected and disposed of further downline in the QA waste bin. Certain inspection features can be enabled or disabled to optimize the inspection process as needed.","The IPIe Vision System will inspect individual positions of the blister strip for Lens and Saline presence,using Proprietory Illumination System, generating a pass/fail status to be accepted or rejected by the Primary Packaging (PP) line."]},
+
+
+{"question": "Where the IPIe Inspection System takes place?",	
+"answer": ["The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline. Each CT has 5 lenses which forms a blister.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline."]},
+
+{"question": "Explain Where the IPIe Inspection System takes place?",	
+"answer": ["The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline. Each CT has 5 lenses which forms a blister.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline."]},
+
+
+{"question": "Describe Where the IPIe Inspection System takes place?",	
+"answer": ["The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline. Each CT has 5 lenses which forms a blister.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline."]},
+
+{"question": "Can you tell me about Where the IPIe Inspection System takes place?",	
+"answer": ["The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline. Each CT has 5 lenses which forms a blister.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline."]},
+
+{"question": "I want to know about Where the IPIe Inspection System takes place?",	
+"answer": ["The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline. Each CT has 5 lenses which forms a blister.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline."]},
+
+{"question": "Show me about Where the IPIe Inspection System takes place?",	
+"answer": ["The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline. Each CT has 5 lenses which forms a blister.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline."]},
+
+{"question": "Give me information about Where the IPIe Inspection System takes place?",	
+"answer": ["The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline. Each CT has 5 lenses which forms a blister.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems.","The IPIe Inspection system is located on the Primary Packaging line between the Saline Dosing and Foil Placement systems. Lens inspection is performed in the primary packaging line while the lens is still in the carrier tray and when the lens is immersed in saline."]},
+
+{"question": "What are the hardware components of IPIe?",	
+"answer": ["IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations.",
+"The hardware components of IPIe consists of the following:
+IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations"]},
+
+{"question": "Tell me the hardware components of IPIe?",	
+"answer": ["IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations.",
+"The hardware components of IPIe consists of the following:
+IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations"]},
+
+{"question": "Show me the hardware components of IPIe?",	
+"answer": ["IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations.",
+"The hardware components of IPIe consists of the following:
+IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations"]},       
+   
+{"question": "I want to know the hardware components of IPIe?",	
+"answer": ["IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations.",
+"The hardware components of IPIe consists of the following:
+IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations"]},
+
+{"question": "List out the hardware components of IPIe?",	
+"answer": ["IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations.",
+"The hardware components of IPIe consists of the following:
+IPIe system hardware:
+1.Imaging Controller/PC System
+1.1 ATX Motherboard(M-342 (A3.4))
+1.2 PCI 7230 card communication interface with ADS
+1.3 NVIDIA Quadro M4000 8GB Graphics
+1.4 PCIe-GIE64+ (Four Channel-1 card-4 Cameras), Onboard (1 Camera)
+1.5 PWLA8391GT (x1-1 ChannelLight Control)
+2. IPIe electrical panel
+2.1 Terminal block details
+IPIe:Electrical Drawing
+1. 5 x Basler piA 2400-17gm High Resolution Camera(piA 2400-17gm)(01-E9001-V04-018-00, 01-E9001-V00-930-01) 
+2. 3 x Gardasoft Illumination Controllers(PP820-EV8A) (01-1795S-V00-000-00)
+3. 5 x Custom Lens
+4. 5 x Custom Illuminations"]}
+       
+]
+}
+]

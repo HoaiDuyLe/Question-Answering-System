@@ -1,0 +1,202 @@
+[
+{
+"context": "The software overview describes the GUI functionality of the BVe software.
+The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens.
+The BVe software is designed with two views, namely:
+1) Main View : Main view displays Title Bar, Ribbon Tool Bar, Image inspection window, Logging window and Yield Graph Window.
+Title Bar : Title Bar has the following information: Application Name, Logo and the Active Window information.
+Ribbon Tool Bar : The Ribbon Tool Bar provides the shortcuts to the most important and frequently used functionalities.
+Image Inspection wiindow : This window has real-time Inspection images. It also contains their results with the Tool, Position and Failure Type information as an overlay.
+Logging window : Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.
+2) Statistics View : Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters. This aids the end user to improve the process and ensure quality of the contact lens.",
+"qas":[
+{"question": "what is software overview?",	
+"answer": ["The software overview describes the GUI functionality of the BVe software.
+The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens.","The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens."]},
+
+{"question": "Define software overview?",	
+"answer": ["The software overview describes the GUI functionality of the BVe software.
+The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens.","The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens."]},
+
+{"question": "Describe software overview?",	
+"answer": ["The software overview describes the GUI functionality of the BVe software.
+The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens.","The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens."]},
+
+{"question": "Explain software overview?",	
+"answer": ["The software overview describes the GUI functionality of the BVe software.
+The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens.","The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens."]},
+
+{"question": "Tell me about software overview?",	
+"answer": ["The software overview describes the GUI functionality of the BVe software.
+The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens.","The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens."]},
+
+{"question": "Can you explain software overview?",	
+"answer": ["The software overview describes the GUI functionality of the BVe software.
+The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens.","The BVe software is a highly customized framework that can be adapted to run with different combinations of camera types, light control, and I/O communication. The software has an extensive array of inspection result data such as real-time results, mold or gripper position yield. This aids the end user to improve the process and ensure quality of the contact lens."]},
+
+{"question": "what are the different views in BVe software?",	
+"answer": ["1.Main View and 2.Statistics View","The BVe software is designed with two views, namely:1.Main View and 2.Statistics View"]},
+
+{"question": "Tell me the different views in BVe software?",	
+"answer": ["1.Main View and 2.Statistics View","The BVe software is designed with two views, namely:1.Main View and 2.Statistics View"]},
+
+{"question": "different views in BVe software?",	
+"answer": ["1.Main View and 2.Statistics View","The BVe software is designed with two views, namely:1.Main View and 2.Statistics View"]},
+
+{"question": "Can you tell me different views in BVe software?",	
+"answer": ["1.Main View and 2.Statistics View","The BVe software is designed with two views, namely:1.Main View and 2.Statistics View"]},
+
+{"question": "show the different views in BVe software?",	
+"answer": ["1.Main View and 2.Statistics View","The BVe software is designed with two views, namely:1.Main View and 2.Statistics View"]},
+
+{"question": "define the different views in BVe software?",	
+"answer": ["1.Main View and 2.Statistics View","The BVe software is designed with two views, namely:1.Main View and 2.Statistics View"]},
+
+{"question": "describe the different views in BVe software?",	
+"answer": ["1.Main View and 2.Statistics View","The BVe software is designed with two views, namely:1.Main View and 2.Statistics View"]},
+
+{"question": "what is main view?",	
+"answer": ["Main view displays Title Bar, Ribbon Tool Bar, Image inspection window, Logging window and Yield Graph Window."]},
+
+{"question": "define main view?",	
+"answer": ["Main view displays Title Bar, Ribbon Tool Bar, Image inspection window, Logging window and Yield Graph Window."]},
+
+{"question": "describe main view?",	
+"answer": ["Main view displays Title Bar, Ribbon Tool Bar, Image inspection window, Logging window and Yield Graph Window."]},
+
+{"question": "explain main view?",	
+"answer": ["Main view displays Title Bar, Ribbon Tool Bar, Image inspection window, Logging window and Yield Graph Window."]},
+
+{"question": "Tell me about main view?",	
+"answer": ["Main view displays Title Bar, Ribbon Tool Bar, Image inspection window, Logging window and Yield Graph Window."]}, 
+
+{"question": "what does main view refers to?",	
+"answer": ["Main view displays Title Bar, Ribbon Tool Bar, Image inspection window, Logging window and Yield Graph Window."]},
+
+{"question": "can you tell about main view?",	
+"answer": ["Main view displays Title Bar, Ribbon Tool Bar, Image inspection window, Logging window and Yield Graph Window."]},
+
+{"question": "what is statistics view?",	
+"answer": ["Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters. This aids the end user to improve the process and ensure quality of the contact lens.","Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters."]},
+
+{"question": "define statistics view?",	
+"answer": ["Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters. This aids the end user to improve the process and ensure quality of the contact lens.","Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters."]},
+
+{"question": "describe statistics view?",	
+"answer": ["Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters. This aids the end user to improve the process and ensure quality of the contact lens.","Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters."]},
+
+{"question": "explain statistics view?",	
+"answer": ["Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters. This aids the end user to improve the process and ensure quality of the contact lens.","Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters."]},
+
+{"question": "what does statistics view refers to?",	
+"answer": ["Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters. This aids the end user to improve the process and ensure quality of the contact lens.","Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters."]},
+
+{"question": "statistics view means?",	
+"answer": ["Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters. This aids the end user to improve the process and ensure quality of the contact lens.","Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters."]},
+
+{"question": "can you tell me about statistics view?",	
+"answer": ["Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters. This aids the end user to improve the process and ensure quality of the contact lens.","Statistics view includes, real-time results, Mold or Gripper position yield, tool position yield, gripper yield, and defect counters."]},
+
+{"question": "what is Title Bar?",	
+"answer": ["Title Bar has the following information: Application Name, Logo and the Active Window information."," Application Name, Logo and the Active Window information"]},
+
+{"question": "define Title Bar?",	
+"answer": ["Title Bar has the following information: Application Name, Logo and the Active Window information."," Application Name, Logo and the Active Window information"]},
+
+{"question": "describe Title Bar?",	
+"answer": ["Title Bar has the following information: Application Name, Logo and the Active Window information."," Application Name, Logo and the Active Window information"]},
+
+{"question": "explain Title Bar?",	
+"answer": ["Title Bar has the following information: Application Name, Logo and the Active Window information."," Application Name, Logo and the Active Window information"]},
+
+{"question": "what does Title Bar refers to?",	
+"answer": ["Title Bar has the following information: Application Name, Logo and the Active Window information."," Application Name, Logo and the Active Window information"]},
+
+{"question": "can you explain Title Bar?",	
+"answer": ["Title Bar has the following information: Application Name, Logo and the Active Window information."," Application Name, Logo and the Active Window information"]},
+
+{"question": "can you tell me about Title Bar?",	
+"answer": ["Title Bar has the following information: Application Name, Logo and the Active Window information."," Application Name, Logo and the Active Window information"]},
+
+{"question": "May i know about Title Bar?",	
+"answer": ["Title Bar has the following information: Application Name, Logo and the Active Window information."," Application Name, Logo and the Active Window information"]},
+
+{"question": "what is Ribbon Tool Bar?",	
+"answer": ["The Ribbon Tool Bar provides the shortcuts to the most important and frequently used functionalities."]},
+
+{"question": "define Ribbon Tool Bar?",	
+"answer": ["The Ribbon Tool Bar provides the shortcuts to the most important and frequently used functionalities."]},
+
+{"question": "describe Ribbon Tool Bar?",	
+"answer": ["The Ribbon Tool Bar provides the shortcuts to the most important and frequently used functionalities."]},
+
+{"question": "explain Ribbon Tool Bar?",	
+"answer": ["The Ribbon Tool Bar provides the shortcuts to the most important and frequently used functionalities."]},
+
+{"question": "can you tell me about Ribbon Tool Bar?",	
+"answer": ["The Ribbon Tool Bar provides the shortcuts to the most important and frequently used functionalities."]},
+
+{"question": "what does Ribbon Tool Bar refers to?",	
+"answer": ["The Ribbon Tool Bar provides the shortcuts to the most important and frequently used functionalities."]},
+
+{"question": "can you explain about Ribbon Tool Bar?",	
+"answer": ["The Ribbon Tool Bar provides the shortcuts to the most important and frequently used functionalities."]},
+
+{"question": "what is Image inspection window?",	
+"answer": ["This window has real-time Inspection images. It also contains their results with the Tool, Position and Failure Type information as an overlay.","This window has real-time Inspection images."]},
+
+{"question": "what is inspection window?",	
+"answer": ["This window has real-time Inspection images. It also contains their results with the Tool, Position and Failure Type information as an overlay.","This window has real-time Inspection images."]},
+ 
+{"question": "define Image inspection window?",	
+"answer": ["This window has real-time Inspection images. It also contains their results with the Tool, Position and Failure Type information as an overlay.","This window has real-time Inspection images."]},
+
+{"question": "describe Image inspection window?",	
+"answer": ["This window has real-time Inspection images. It also contains their results with the Tool, Position and Failure Type information as an overlay.","This window has real-time Inspection images."]},
+
+{"question": "explain Image inspection window?",	
+"answer": ["This window has real-time Inspection images. It also contains their results with the Tool, Position and Failure Type information as an overlay.","This window has real-time Inspection images."]},
+
+{"question": "can you tell me about Image inspection window?",	
+"answer": ["This window has real-time Inspection images. It also contains their results with the Tool, Position and Failure Type information as an overlay.","This window has real-time Inspection images."]},
+
+{"question": "what does Image inspection window refers to?",	
+"answer": ["This window has real-time Inspection images. It also contains their results with the Tool, Position and Failure Type information as an overlay.","This window has real-time Inspection images."]},
+
+{"question": "can you tell me about inspection window?",	
+"answer": ["This window has real-time Inspection images. It also contains their results with the Tool, Position and Failure Type information as an overlay.","This window has real-time Inspection images."]},
+
+{"question": "what is logging window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]},
+
+{"question": "define logging window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]},
+
+{"question": "describe logging window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]},
+
+{"question": "explain logging window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]},
+
+{"question": "can you tell me about logging window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]},
+
+{"question": "what is log window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]},
+
+{"question": "define log window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]},
+
+{"question": "describe log window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]},
+
+{"question": "explain log window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]},
+
+{"question": "can you tell me about log window?",	
+"answer": ["Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window. This information is saved automatically into an un-editable file.","Important logs such as user login, logout, mold blanking, parameter or setting change are displayed in this window."]}
+]
+}
+]
+
+
